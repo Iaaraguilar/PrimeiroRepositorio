@@ -1,0 +1,35 @@
+INICIAR
+
+
+git init
+
+
+VERIFICAR
+
+
+git add .
+
+
+
+SALVAR
+
+git commit -m"Primeiro teste"
+
+informa o que foi alterado
+
+
+
+linkar com repositorio
+
+git remote add origin
+https://github.com/Iaaraguilar/PrimeiroRepositorio.git
+
+
+
+ENVIAR AS ALTERACAOES
+
+git push origin main
+
+
+
+
